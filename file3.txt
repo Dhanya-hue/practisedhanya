@@ -1,2 +1,23 @@
 creating new file
 making changes
+
+git init
+git --version
+git add . or git add filename
+git commit -m "m"
+git config --global user.name
+git config --global user.email
+git remote add origin url
+git clone url
+git remote -v
+git push oriin master
+pit pull origin master
+git log
+git log --oneline
+ git log -n 3
+git fetch
+git pull
+git clone
+git restore --staged filename
+git show cmmit id
+git revert commit id
