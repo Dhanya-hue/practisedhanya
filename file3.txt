@@ -21,3 +21,11 @@ git clone
 git restore --staged filename
 git show cmmit id
 git revert commit id
+
+git show commit ID
+git revert commit ID
+git restore --staged filename
+
+git tag -a "v1" commit ID
+git push origin master --tags
+
